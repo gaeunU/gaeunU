@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaeunU
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning XR contents with unity
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Ubreal Engine 5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
