@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Ubreal Engine 5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Thakn you ~
 
 <!---
 gaeunU/gaeunU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
